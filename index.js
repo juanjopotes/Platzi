@@ -1,1 +1,1 @@
-alert("hola platzi!!")
+alert("hola platzi!!");
